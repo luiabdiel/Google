@@ -175,6 +175,8 @@ span {
 
   background-color: #f2f3f4;
   color: #000000;
+
+  cursor: pointer;
 }
 
 .search__btns button:hover {
