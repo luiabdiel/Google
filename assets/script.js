@@ -1,6 +1,6 @@
 const searchInput = document.querySelector('#shearch__input')
 
-searchInput.addEventListener('keyboard', function (event) {
+searchInput.addEventListener('keydown', function (event) {
   if (event.code === 'Enter') {
     search()
   }
