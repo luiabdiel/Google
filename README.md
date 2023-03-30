@@ -12,7 +12,7 @@ UI Clone - Google
 
 ![Design preview from the calculator](./assets/images/google-clone.png)
 
-<p align="center"><a href="https://google.com">Google Homepage</a> clone for study purposes.</p>
+<p align="center">Google Homepage clone for study purposes.  <a href="https://exquisite-gingersnap-073c71.netlify.app/">Deploy</a></p>
 
 <hr>
 
